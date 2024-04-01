@@ -9,4 +9,4 @@ git pull --all
 code session1.sql - create a file
 
 - Liquidbase
-liquibase status --username=app_data --password=^SaE9EqStc3004b_databases/%7Hj --changelog-file=create_company.sql --url=jdbc:oracle:thin:@dev_low?TNS_ADMIN=/workspaces/codespaces-blank/oracle
+liquibase status --username=app_data --password=^SaE9EqStc3004b_databases/%7Hj --changelog-file=create_company.sql --url=jdbc:oracle:thin:@dev_low?TNS_ADMIN=/workspaces/codespaces-blank/ora
